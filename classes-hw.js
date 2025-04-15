@@ -130,6 +130,7 @@ const problems = [
     thing.hireEmployee()
     thing.work()
     }
+    
     // Problem 5:
     // Create a class called Employee with a method work() that logs "Working..."
     // Create a subclass called Manager that has an additional method hireEmployee() that logs "Employee hired"
